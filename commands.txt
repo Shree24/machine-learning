@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Shree24/machine-learning.git
+git push -u origin master
